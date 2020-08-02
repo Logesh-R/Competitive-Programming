@@ -5,6 +5,7 @@
 - [E] 1207.  Unique Number of Occurrences
 
 #### Stack
+- [E] 155.   Min Stack
 - [E] 225.   Implement Stack using Queues
 - [E] 496.   Next Greater Element I
 - [E] 682.   Baseball Game
