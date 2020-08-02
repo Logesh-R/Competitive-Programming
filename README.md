@@ -11,3 +11,6 @@
 - [E] 682.   Baseball Game
 - [E] 1047.  Remove All Adjacent Duplicates In String
 - [H] 84.    Largest Rectangle in Histogram
+
+#### Strings
+- [E] 520.   Detect Capital
