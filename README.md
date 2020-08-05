@@ -14,3 +14,6 @@
 
 #### Strings
 - [E] 520.   Detect Capital
+
+#### DFS
+- [M] 98.    Validate Binary Search Tree
