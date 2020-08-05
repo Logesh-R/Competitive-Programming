@@ -16,4 +16,5 @@
 - [E] 520.   Detect Capital
 
 #### DFS
+- [E] 111.   Minimum Depth of Binary Tree
 - [M] 98.    Validate Binary Search Tree
