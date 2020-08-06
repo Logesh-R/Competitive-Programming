@@ -24,7 +24,10 @@
 - [M] 103.   Binary Tree Zigzag Level Order Traversal
 - [M] 429.   N-ary Tree Level Order Traversal
 
-#### BinaryTree
+#### Binary Tree
 - [E] 112.   Path Sum
 - [M] 113.   Path Sum II
 - [M] 129.   Sum Root to Leaf Numbers
+
+#### Array/Vector
+- [M] 442.   Find All Duplicates in an Array
