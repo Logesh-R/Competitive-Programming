@@ -18,4 +18,7 @@
 #### DFS
 - [E] 111.   Minimum Depth of Binary Tree
 - [M] 98.    Validate Binary Search Tree
+
+#### BFS
 - [M] 102.   Binary Tree Level Order Traversal
+- [M] 429.   N-ary Tree Level Order Traversal
