@@ -36,3 +36,4 @@
 #### LinkedList
 - [M] 2.     Add Two Numbers
 - [M] 19.    Remove Nth Node From End of List
+- [M] 24.    Swap Nodes in Pairs
