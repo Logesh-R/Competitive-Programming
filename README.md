@@ -36,6 +36,7 @@
 - [M] 442.   Find All Duplicates in an Array
 
 #### LinkedList
+- [E] 83.    Remove Duplicates from Sorted List
 - [M] 2.     Add Two Numbers
 - [M] 19.    Remove Nth Node From End of List
 - [M] 24.    Swap Nodes in Pairs
