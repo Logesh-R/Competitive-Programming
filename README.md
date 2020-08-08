@@ -32,6 +32,7 @@
 - [M] 987.   Vertical Order Traversal of a Binary Tree
 
 #### Array/Vector
+- [E] 189.   Rotate Array
 - [M] 442.   Find All Duplicates in an Array
 
 #### LinkedList
